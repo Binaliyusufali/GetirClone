@@ -4,4 +4,4 @@ Bu proje ile React Native becerilerimi geliştirmek adına yapılmış bir alı�
 
 Projede Navigation, status bar gibi elementler kullanılarak güzel bir görünüm sağlanmaya çalışılmıştır.
 
-<img src="GetirClone.png"/>
+<img src="GetirClone.png" width=100 height=250/>
